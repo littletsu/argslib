@@ -1,0 +1,23 @@
+{
+  "name": "argslib",
+  "version": "1.0.0",
+  "description": "process.argv parser based on commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test -test2 -test \"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littletsu/argslib.git"
+  },
+  "keywords": [
+    "argv"
+  ],
+  "author": "littletsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/littletsu/argslib/issues"
+  },
+  "homepage": "https://github.com/littletsu/argslib#readme",
+  "type": "module"
+}
